@@ -1,0 +1,52 @@
+Dependencies for Project 'Filipiak_Projekt', Target 'KL05Z': (DO NOT MODIFY !)
+CompilerVersion: 6220000::V6.22::ARMCLANG
+F (.\i2c.c)(0x673D8868)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -fno-function-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_KL05Z-IC:/Users/PC/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/PC/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include-D__UVISION_VERSION="541" -DMKL05Z32xxx4 -D_RTE_-o ./objects/i2c.o -MMD)
+I (i2c.h)(0x673D8868)
+I (frdm_bsp.h)(0x673D8868)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL05Z4.h)(0x585BDE7A)
+I (C:\Users\PC\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm0plus.h)(0x664C3AF8)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\system_MKL05Z4.h)(0x55FBCAE8)
+F (.\lcd1602.c)(0x673D8868)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -fno-function-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_KL05Z-IC:/Users/PC/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/PC/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include-D__UVISION_VERSION="541" -DMKL05Z32xxx4 -D_RTE_-o ./objects/lcd1602.o -MMD)
+I (lcd1602.h)(0x673D8868)
+I (frdm_bsp.h)(0x673D8868)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL05Z4.h)(0x585BDE7A)
+I (C:\Users\PC\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm0plus.h)(0x664C3AF8)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\system_MKL05Z4.h)(0x55FBCAE8)
+I (i2c.h)(0x673D8868)
+F (.\main.c)(0x67974C4C)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -fno-function-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_KL05Z-IC:/Users/PC/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/PC/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include-D__UVISION_VERSION="541" -DMKL05Z32xxx4 -D_RTE_-o ./objects/main.o -MMD)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL05Z4.h)(0x585BDE7A)
+I (C:\Users\PC\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm0plus.h)(0x664C3AF8)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\system_MKL05Z4.h)(0x55FBCAE8)
+I (lcd1602.h)(0x673D8868)
+I (frdm_bsp.h)(0x673D8868)
+I (i2c.h)(0x673D8868)
+I (leds.h)(0x6050E74E)
+I (klaw.h)(0x6050E63E)
+I (TPM.h)(0x5FA47F04)
+F (.\TPM.c)(0x6796317D)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -fno-function-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_KL05Z-IC:/Users/PC/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/PC/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include-D__UVISION_VERSION="541" -DMKL05Z32xxx4 -D_RTE_-o ./objects/tpm.o -MMD)
+I (TPM.h)(0x5FA47F04)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL05Z4.h)(0x585BDE7A)
+I (C:\Users\PC\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm0plus.h)(0x664C3AF8)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\system_MKL05Z4.h)(0x55FBCAE8)
+F (.\leds.c)(0x670CF216)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -fno-function-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_KL05Z-IC:/Users/PC/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/PC/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include-D__UVISION_VERSION="541" -DMKL05Z32xxx4 -D_RTE_-o ./objects/leds.o -MMD)
+I (leds.h)(0x6050E74E)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL05Z4.h)(0x585BDE7A)
+I (C:\Users\PC\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm0plus.h)(0x664C3AF8)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\system_MKL05Z4.h)(0x55FBCAE8)
+F (.\klaw.c)(0x670CF24C)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -fno-function-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_KL05Z-IC:/Users/PC/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/PC/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include-D__UVISION_VERSION="541" -DMKL05Z32xxx4 -D_RTE_-o ./objects/klaw.o -MMD)
+I (klaw.h)(0x6050E63E)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL05Z4.h)(0x585BDE7A)
+I (C:\Users\PC\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm0plus.h)(0x664C3AF8)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\system_MKL05Z4.h)(0x55FBCAE8)
+F (.\frdm_bsp.h)(0x673D8868)()
+F (.\i2c.h)(0x673D8868)()
+F (.\lcd1602.h)(0x673D8868)()
+F (.\main.h)(0x673D8868)()
+F (.\klaw.h)(0x6050E63E)()
+F (.\leds.h)(0x6050E74E)()
+F (.\TPM.h)(0x5FA47F04)()
+F (RTE/Device/MKL05Z32xxx4/startup_MKL05Z4.s)(0x673D8868)(--target=arm-arm-none-eabi -mcpu=cortex-m0plus -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/_KL05Z-IC:/Users/PC/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/PC/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 541" -Wa,armasm,--pd,"MKL05Z32xxx4 SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_mkl05z4.o)
+F (RTE/Device/MKL05Z32xxx4/system_MKL05Z4.c)(0x673D8868)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -fno-function-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_KL05Z-IC:/Users/PC/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/PC/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include-D__UVISION_VERSION="541" -DMKL05Z32xxx4 -D_RTE_-o ./objects/system_mkl05z4.o -MMD)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL05Z4.h)(0x585BDE7A)
+I (C:\Users\PC\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm0plus.h)(0x664C3AF8)
+I (C:\Users\PC\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\system_MKL05Z4.h)(0x55FBCAE8)
